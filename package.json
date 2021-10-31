@@ -1,5 +1,6 @@
 {
   "name": "nw-calc",
+  "homepage": "https://drenith.github.io/nw-calc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
